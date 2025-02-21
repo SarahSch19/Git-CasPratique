@@ -1,3 +1,10 @@
+
+Eleve 1 : MARWANE 
+
+Eleve 2 : STANLEY 
+
+Eleve 3 : Marwane et Stanley
+
 # CasPratique : *Versioning avec Git et GitHub*
 
 ### Modalités
